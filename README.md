@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Jan Carlo 
 
 💻 A passionate developer who loves building, learning, and sharing.  
 🚀 Always exploring new tech, frameworks, and creative projects.  
