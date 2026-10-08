@@ -22,7 +22,7 @@ I’m currently exploring different areas of software development and continuous
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,git,github,vscode,pycharm,tkinter,flutter,dart" />
 </p>
 
 ---
