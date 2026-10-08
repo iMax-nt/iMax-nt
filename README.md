@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Jan Carlo
 
-### 💻 Developer • Student • Tech Enthusiast
+### 💻 Aspiring Developer • Computer Science Student • Tech Enthusiast
 
-I’m a passionate developer who enjoys **building projects, learning new technologies, and turning ideas into reality.** 🚀
+I’m an **aspiring developer** who enjoys learning new technologies, building projects, and turning ideas into reality. 🚀
 
-I'm currently exploring different areas of software development, from **web development and programming to tools that make development more efficient.**
+I’m currently exploring different areas of software development and continuously improving my programming skills.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Computer Science student
-* 💻 Passionate about software development
+* 💻 Aspiring software developer
 * 🌱 Currently learning and improving my programming skills
 * 🛠️ Enjoy building personal and academic projects
 * 🔍 Always curious about new technologies
@@ -67,7 +67,7 @@ I'm currently exploring different areas of software development, from **web deve
 
 ## 💭 Developer Quote
 
-> **"Build. Break. Learn. Repeat."** 🚀
+> **"Learn. Build. Improve. Repeat."** 🚀
 
 ---
 
